@@ -1,0 +1,4516 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" creationtoolversion="3.15.1" segtype="sentence" o-tmf="UTF-8" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Energy! ahead Data for 2015/Year of reporting 2017, Municipal Department20 Energy Report of the City of Vienna
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>能源!前 数据为2015/2017年报告年,市政部门20 维也纳市能源报告</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>ABBREVIATIONS
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>简称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>GIEC Gross inland energy consumption
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>国际能源委员会 国内能源消费总量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>BLI Bundesländer Luftschadstoff Inventur – survey of air pollutants in Austria
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>德国空气污染物调查</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>emikat.at Emissions and energy data management system of the Austrian Institute of Technology (AIT)
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>澳大利亚技术学院 (AIT) 的排放和能源数据管理系统</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>ETS Emissions trading system
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>排放交易系统</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>KliP Climate protection programme of the City of Vienna
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>维也纳市气候保护计划</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>kWp kilowatt peak
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>电量最高的千瓦瓦</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>MA Municipal Department
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>马来西亚市政部门</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>MIT Motorised individual traffic
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>机动化个人交通</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Non-ETS Non-emissions trading system
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>排放交易系统</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>PV Photovoltaics
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>太阳能光伏</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>SCWR Smart City Wien Framework Strategy
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>智能城市维也纳框架战略</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>SEP Urban Energy Efficiency Programme of the City of Vienna
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>维也纳市的城市能源效率计划</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>STEP Urban Development Plan of the City of Vienna
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>维也纳市城市发展计划</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>GHG Greenhouse gases
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>温室气体 温室气体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>PREFACE
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>预言</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In 2015, the highest concentration of greenhouse gases in the atmosphere to date was measured.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>2015年,大气中温室气体度达到迄今为止最高水平.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>These concerning figures are an important reason to implement measures that will help us meet the objectives of the Paris Agreement as quickly and consistently as possible.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>这些令人担忧的数字是实施措施的重要理由,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>All efforts in this area will benefit future generations.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>任何在此领域的努力都将使后代受益.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>With its 1.8 million inhabitants, Vienna is a strong driver for innovation at the heart of Europe.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>维也纳拥有180万居民,是欧洲核心创新的强大推动力.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Therefore, we must pay particular attention to energy efficiency and climate-friendly mobility, increase the use of waste heat, and promote the use of renewables for energy generation.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>因此,我们必须特别关注能源效率和环保的交通,增加废热的使用,促进可再生能源的使用.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Much has been achieved in all these areas.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>在所有这些领域取得了很大的成就.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The impact of these efforts is reflected in this energy report:
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>这些努力的影响反映在下面的能源报告中:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For the first time, more people in Vienna own an annual public transport pass than a car.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>维也纳的年乘公共交通卡人数比车辆还多.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Switching from cars to public transport has a dramatic impact on CO2 emissions, as the transportation sector is the largest producer of carbon dioxide.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>转换车辆到公共交通工具对二氧化碳排放产生了巨大影响,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The first monitoring results show that the city is on the right track towards meeting the ambitious goals of the Smart City Wien Framework Strategy.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>首批监测结果显示,该市正朝着实现"智能城市维也纳框架战略"雄心勃勃的目标迈进.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>We have also developed a new Energy Framework Strategy for Vienna, which lays out a clear path towards decarbonisation.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>我们还为维也纳制定了新的能源框架战略,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This strategy gives equal attention to the energy policy areas of energy efficiency, supply security, economic viability, use of waste heat and renewables, and social impact.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>这项战略同样重视能源效率,供应安全,经济可行性,废热和可再生能源的使用以及社会影响等能源政策领域.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Internationally, Vienna is regarded as a pioneer and driving force, and this year it was awarded for its heat pump initiatives:
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>维也纳国际上被认为是先和推动力,今年它因其热倡议而获奖:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>At the DecarbHeat conference in Brussels on 11 and 12 May 2017, the City of Vienna was awarded the “European Heat Pump City of the Year” award.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>在2017年5月11日至12日在布鲁塞尔举行的DECARBHEAT会议上,维也纳市获得了"年度欧洲热城市"奖项.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Vienna’s entry, which presented the city's main initiatives for promoting heat pumps, won over projects from Trondheim and Berlin.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>维也纳的参赛,展示了该市推广热的主要举措,赢得了特朗德海姆和柏林的项目.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Numerous innovative energy projects are an impressive demonstration of how sustainable energy supply can be implemented in a forward-looking way, and make Vienna a pioneer in the use of new energy technologies and efficient construction.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>许多创新能源项目令人印象深刻地证明了可持续能源供应如何以前的方式实施,并使维也纳成为新能源技术和高效建筑的先驱.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A new app allows users to discover the many showcase projects in our city.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>让用户发现我们城市的众多展览项目.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It provides interesting information about buildings and projects all over Vienna.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>提供了关于维也纳各地建筑和项目有趣的信息.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It will soon be updated with many additional projects.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>很快将会有更多的项目.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>These are just some of the highlights you can read about in this new energy report.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>这些只是新能源报告中所列出的重要内容.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It contains facts and figures about the city’s energy supply, energy efficiency and use, renewables, the development of energy prices, and many other topics.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>包含有关城市能源供应,能源效率和使用,可再生能源,能源价格发展等诸多主题的事实和数据.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>There is no doubt:
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>毫无疑问:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Vienna has to stay its course towards sustainability.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>维也纳必须保持可持续发展的方向.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The coming generations will thank us for it.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>未来几代人会感谢我们.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Maria Vassilakou
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>玛丽亚·瓦西拉科</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>INTERVIEW
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>采访</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Interview by Herbert Ritter (Municipal Department 20) with Bernd Vogl (Municipal Department 20) and Herbert Pöschl (Executive Group for the Environment and Vienna Public Utilities).
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>采访赫伯特·里特 (市政部门20) 与伯恩德·沃格尔 (市政部门20) 和赫伯特·波什尔 (环境和维也纳公共服务执行组)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>HERBERT RITTER:
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>现在我们要做些什么?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Last year, you developed the Energy Framework Strategy 2030 for Vienna.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>您去年为维也纳制定了"2030年能源框架战略".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>What does the city need an energy framework strategy for, and why was it developed now?
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>为什么城市需要能源框架战略,为什么现在才制定?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>HERBERT PÖSCHL:
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>现在我们要做些什么?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>One reason for developing the energy framework strategy was that Vienna, as the largest city in Austria, has a very high energy density.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>制定能源框架战略的一个原因是维也纳是奥地利最大的城市,能源密度非常高.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>That means that energy demand and consumption are extremely high compared to the city’s size.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>这意味着与城市规模相比,能源需求和消费非常高.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The international and European objectives of the Paris climate agreement have to be reflected in Austria’s strategies as well as in the strategies of each province.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>国际和欧洲气候协议的目标必须反映在奥地利的战略和各省的战略中.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>That is why such a strategy is essential for Vienna.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>这就是为什么维也纳需要这样的战略.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>BERND VOGL:
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>没有任何问题.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In 2014, the City of Vienna adopted the Smart City Wien Framework Strategy.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>维也纳市于2014年通过了"智能城市维也纳框架战略".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In its development, many fundamental long-term energy goals for 2030 and 2050 were discussed and decided.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>在该计划的制定过程中,讨论并决定了2030年和2050年的许多基本长期能源目标.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>But we also need specific strategies that set out the details of how our ambitious long-term goals can be achieved.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>但我们还需要具体的战略, 详细说明如何实现雄心勃勃的长期目标.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Therefore, it was the logical next step to follow up on the Smart City Framework Strategy by tasking the energy experts with designing a strategic framework for energy in Vienna, especially with a view to what measures can help us achieve the goals.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>通过委托能源专家在维也纳制定能源战略框架, 特别是考虑到哪些措施可以帮助我们实现目标.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Currently, we have some great people working in energy, so they were able to present a solid, well-rounded result in a very short time.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>现在我们有很多优秀的人在能源领域工作,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>I have been working for the Executive Group for the Environment and Vienna Public Utilities since 1 August 2016.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>我从2016年8月1日开始为环境和维也纳公共事业执行组工作.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>As a “newcomer”, this was a new challenge for me and it was great to see what we were able to achieve in the short time available.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>作为一个"新人",这对我来说是一个新的挑战,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>We can be proud of the results.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>我们可以为结果感到自豪.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Vienna already has several strategies and programmes with a strong focus on energy, like the Smart City Wien Framework Strategy you mentioned or the climate protection programme.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>维也纳已经有了几个重点关注能源的战略和方案,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>How is the Energy Framework Strategy embedded in the city’s array of programmes and how do they link up to each other?
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>能源框架战略如何嵌入城市的各种方案中,以及它们如何相互联系?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Vienna developed the Urban Energy Efficiency Programme SEP in 2006, an ambitious climate protection programme in 2009, and the Smart City Wien Framework Strategy in 2014.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>维也纳在2006年制定了城市能源效率计划 (SEP),在2009年制定了雄心勃勃的气候保护计划,并在2014年制定了智能城市维也纳框架战略.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Therefore, there did not seem to be much urgency to develop an additional energy strategy.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>因此,制定额外的能源战略似乎并不十分紧迫.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>However, the first discussions and plans for an energy strategy began in 2011 because there was a need for a holistic view of Vienna’s energy system.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>然而,能源战略的第一次讨论和计划始于2011年,因为需要对维也纳能源系统进行全面的视图.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>There were also first discussions about an action plan for renewable energy in 2012.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>2012年也进行了关于可再生能源行动计划的第一次讨论.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Now all of these ideas are being bundled in a comprehensive Energy Framework Strategy for Vienna.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>现在,所有这些想法都被汇集到维也纳的全面能源框架战略中.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>We are not the only city to do this; the Paris Agreement and decarbonisation efforts are omnipresent.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>我们不是唯一一个这样做的城市,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>However, we are a lighthouse city that is already implementing the energy system 2.0.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>我们已经在实施能源系统2.0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>We have achieved what other cities are still trying to do:
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>我们已经实现了其他城市仍在努力实现的目标:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>We have nearly eliminated oil and coal from our heat market.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>我们几乎从热市场中淘汰了石油和煤炭.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The next step is switching from natural gas to renewables.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>接下来的步骤是从天然气转向可再生能源.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To this end, we have to reinforce our efforts towards the use of waste heat and renewables.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>为了实现这一目标,我们必须加强对废热和可再生能源的使用的努力.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>I consider the Smart City Wien Framework Strategy an umbrella strategy that is located above the Energy Framework Strategy, the Urban Development Plan and the climate protection programme.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>我认为"智能城市维也纳框架战略"是一个总体战略, 位于能源框架战略,城市发展计划和气候保护计划之上.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>These sub-strategies are all on one level and interact with each other.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>这些子策略都在一个层面上,相互相互作用.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>We illustrated the relationship of the different programmes and strategies to each other in the Energy Framework Strategy.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>我们在能源框架战略中说明了不同方案和战略之间的关系.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The Smart City strategy is above all the other strategies, the Energy Framework Strategy encompasses the entire energy sector, and the other strategies (the climate change adaptation and urban development programmes) are connected and have some overlap.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>智慧城市战略是其他战略的首要目标,能源框架战略涵盖整个能源部门,其他战略 (适应气候变化和城市发展计划) 相互联系,并有一定的重叠.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Together, they form a large strategic framework.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>它们共同构成一个大战略框架.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It is not about the plans and ideas of individuals, but about cooperating more closely and understanding that we are one single organism that is trying to meet ambitious energy and climate policy goals.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>这不是个人的计划和想法,而是更紧密的合作,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The Energy Framework Strategy lays out the energy policy goals of the city.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>能源框架战略规定了城市的能源政策目标.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>What are they, what are their special characteristics, and how do they relate to each other?
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>它们是什么,它们的特点是什么,它们彼此之间有什么关系?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The energy policy goals are supply security, waste heat and renewables, energy efficiency, economic viability, and social impact.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>能源政策的目标是供应安全,废热和可再生能源,能源效率,经济可行性和社会影响.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>None of these objectives has a higher priority than the others, they are all equally important.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>没有一个目标比其他目标更优先,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>I think it is important that these energy policy objectives reflect a sustainable, socially equitable, fair and forward-looking energy supply system for the city.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>我认为,这些能源政策目标必须反映城市可持续,社会公平,公平和前性的能源供应系统.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The City of Vienna considered it very important to add the social dimension to the Smart City discussion, which was previously very much focused on technology.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>维也纳市认为,在以前非常关注技术的智慧城市讨论中,要增加社会层面非常重要.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>We on the energy side also wanted to work gradually towards decarbonisation in a balanced way, always keeping in mind these energy goals.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>我们也希望在能源方面, 逐步以平衡的方式实现脱碳,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Decarbonisation and using domestic resources is a sustainable and socially beneficial approach.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>脱碳和使用国内资源是可持续和社会有益的方法.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Future generations will be grateful for the effort we put into pushing these issues, just as we are grateful to past generations for building hydropower stations and giving Austria a step ahead in the renewables sector.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>未来的世代会感谢我们努力推动这些问题,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The Energy Framework Strategy works towards decarbonisation.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>能源框架战略致力于实现脱碳.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>What are the main areas in which action is taken, and what are the next key measures?
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>哪些主要领域采取行动,下一个关键措施是什么?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>What major challenges do we have to overcome?
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>我们必须克服哪些重大挑战?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Taking our strategic areas as a starting point, our main challenges are in the fields of strategic and sustainable energy supply, waste heat and renewables, the energyefficient city, energy use, mobility, and, of course, innovation and digitisation.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>作为战略领域的起点,我们的主要挑战在战略和可持续能源供应,废热和可再生能源,节能城市,能源使用,流动性,当然创新和数字化等领域.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>There are many excellent projects in the city that have already been completed.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>已经完成了许多优秀的项目.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>There are also projects that are halfway done and now being revived.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>现在正在重建的项目.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>We are also addressing new issues, such as digitisation.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>我们也在处理数字化等新问题.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It’s a step towards the future.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>这是一个朝着未来迈出的步骤.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Broadly speaking, we have two main issues in the city:
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>总的来说,我们在城市中遇到的两个主要问题:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Mobility on the one hand, heating on the other.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>一方面是移动性,另一方面是加热.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Both rely heavily on fossil energy sources; in the heating sector, it is natural gas, and even district heating still uses some fossil energy sources.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>两者都依赖化石能源;在供暖领域,天然气,甚至是远程供暖仍然使用一些化石能源.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The entire heating sector needs to shift more towards energy efficiency and renewables.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>整个供暖部门需要更加转向能源效率和可再生能源.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>We will have to look at how the gas system, which plays a big part in heating, and related technologies develop.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>我们必须看看气体系统的发展,它在加热中发挥了很大的作用,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Will there be renewable gas, and how much?
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>能否有可再生能源,而且要多少?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>How will cogeneration technologies, which are a very efficient way of energy generation, develop?
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>如何发展热电联热技术,这是一个非常高效的能源生产方式?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>We should keep using cogeneration, as combined heat and power plants are considered the backbone of our energy supply and can provide electricity when there is a shortage, e.g. when renewables are not producing enough.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>我们应该继续使用热电联发,因为热电站被认为是我们能源供应的支柱,在缺乏时可以提供电力,例如,可再生能源产量不足时.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For mobility, this means reducing private traffic in the public space and shifting towards public transport, cycling and walking, but also increasing electromobility.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>对于移动,这意味着减少公共空间的私人交通,转向公共交通,骑自行车和步行,同时也增加电动交通.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A city can provide suitable infrastructure, but it has very few ways of influencing technological developments as such.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>城市可以提供合适的基础设施,但它几乎无法影响技术发展.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>How can we reduce energy consumption?
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>我们如何减少能源消耗?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>What are the legislative approaches at all levels, including the European level, where the motto is “energy efficiency first”?
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>如何在各个层面,包括欧洲层面,采取立法方法,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>What strategies are available, particularly in the buildings and mobility sectors?
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>具体在建筑和交通领域有哪些策略?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Energy consumption is an important part of the strategy, particularly in the buildings sector.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>能源消耗是战略的重要组成部分,尤其是在建筑业.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Electromobility is a leap forward in energy efficiency in the mobility sector, but in the buildings sector, where we have already done a lot, it is harder to reduce energy consumption further.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>电动汽车是交通领域能源效率的飞跃, 但在建筑业, 我们已经做了很多, 进一步降低能源消耗更难.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>That requires long-term investments.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>这需要长期投资.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>We know from the current funding instruments that it is hard to speed up refurbishment rates.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>我们从目前的资金工具中知道,很难加速翻新速度.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The City of Vienna has been active in this area for 20 years, e.g. with the thermal energetic refurbishment initiative “Thewosan”, which yielded very visible results.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>维也纳市已经在这一领域开展了20年的活动,例如热能改造计划"Thewosan",取得了非常明显的成果.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Nevertheless, we must remain active in this field.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>尽管如此,我们必须继续积极地在这个领域工作.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The strategy also includes the energy use by end users, particularly in the section on consumers.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>战略还包括最终用户的能源使用,特别是消费者部分.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Could you tell us a bit more about that?
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>您能告诉我们更多吗?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It is important to reach people with our awareness-building measures.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>重要的是要通过我们的宣传活动,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>We also have to launch projects in kindergartens and schools to teach young children how to use energy.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>让我们在幼儿园和学校开展项目,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This is important because it is the only way to ensure that tomorrow’s adults know how to use energy efficiently.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>这很重要,因为只有这样才能确保明天的成年人能有效地利用能源.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The “Wien Energie Erlebniswelt” experience is a great educational project, which our department helped develop.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>维也纳能源经验世界是一个伟大的教育项目,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It is a good investment and it shows how Vienna tries to address all parts of the population with tailored energy information.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>这是一项良好的投资,表明维也纳如何试图通过量身定制的能源信息,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In order to achieve a more sustainable energy supply, the “Vienna model” must be developed further while maintaining a high supply security.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>为了实现更可持续的能源供应,必须进一步发展"维也纳模式",同时保持高供应安全.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>What approaches does that entail?
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>如何进行?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The Vienna model has two main components:
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>维也纳模式有两个主要组成部分:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Energy generation in the city on the one hand, and customer portfolios on the other, e.g. electricity, heating, or gas customers.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>一方面是城市能源生产,另一方面是客户组合,例如电力,供暖或天然气客户.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>These are linked by the overarching topic of grid infrastructure (district heating, electricity, natural gas, and in the future perhaps grids for biogas or synthetic gas).
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>它们由网络基础设施 (远程供暖,电力,天然气,未来可能是生物气或合成气体的电网) 的总体主题联系在一起.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Over the next years, we must continue to expand the Vienna model, adding renewables and waste heat to it.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>未来几年我们必须继续扩大维也纳模式,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>There are also important new topics, such as increased use of photovoltaics and prosumer approaches that allow private users to sell electricity to their neighbours.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>另外,还有一些重要新话题,如光伏的使用增加和消费者方式,允许私人用户向邻居出售电力.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The great technical challenge we are facing in this regard is what these many small power plants would mean for the electricity grid and supply security.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>这一点上面临的重大技术挑战是,这些众多小型电厂对电网和供应安全意味着什么.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Vienna has a very high degree of supply security, and we cannot let new technologies jeopardise that.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>维也纳的供应安全程度非常高,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The City of Vienna and the national government must create a legal framework within which these innovations can be implemented.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>维也纳市政府和国家政府必须建立一个法律框架,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Speaking of prosumers, we are currently implementing the “Smart Meter” project in Vienna.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>现在我们正在维也纳实施"智能计数器"项目.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>We are making large investments in this system, which will give us new methods for steering and using flexible tariffs.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>我们正在对这个系统进行大量投资,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The city is a large consumer and should be able to use more energy when there is a lot of it.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>城市是大消费者,如果能用到大量的能源,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>We want the city to act as energy storage.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>我们希望城市作为储能.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>We are already in talks with the neighbouring provinces, as this is an energy region with a lot of wind and PV power.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>我们已经与邻近省份进行了谈判,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It is most beneficial to use this electricity directly in the energy region, for example with electric vehicles.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>直接在能源领域使用这种电力最有利,例如电动汽车.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>We also want buildings to use and store energy.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>我们还希望建筑物使用和储存能量.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>We are currently discussing methods like concrete core activation and heat storage, as well as battery storage.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>我们目前正在讨论混凝土核激活和热存储,以及电池存储等方法.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>There are many funding initiatives in this area.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>许多资金举措在这个领域.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Every prosumer needs energy storage.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>每个新兴消费者都需要储能.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Smart meters will give us even more opportunities in this field.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>智能计数器将为我们提供更多的机会.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The Energy Framework Strategy 2030 lays out the strategic guidelines for the energy sector.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>能源框架战略2030规定了能源部门的战略指导方针.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>What are the next steps, how will you implement these plans?
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>如何实现这些计划?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The Energy Framework Strategy provides the framework for Vienna’s energy policy.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>能源框架战略为维也纳能源政策提供了框架.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The individual areas will give rise to various initiatives, and we will implement projects in the fields of energy efficiency and renewables.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>我们将在各个领域开展各种举措,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Another question we have to answer is how to ensure that housing remains affordable in Vienna.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>另一个问题是,我们如何确保维也纳住房仍然负担得起.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>As regards the overall structure of the Energy Framework Strategy, we decided to set up a steering group, which we will be heading jointly.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>关于能源框架战略的整体结构,我们决定成立一个指导小组,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>We will commission and support sub-programmes that are focused on measures for specific issues.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>我们将委托和支持专注于具体问题的子计划.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>These sub-programmes will report about their progress to the steering group on a regular basis, and may be adapted if necessary.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>这些子计划将定期向指导组报告其进展情况,并在必要时可能进行调整.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The steering group is the point of contact for all sub-programmes supported by the Energy Framework Strategy for Vienna.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>引导小组是维也纳能源框架战略所支持的所有子计划的联系人.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Thank you for the interview.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>谢谢你的采访.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>1.3 MILESTONES ON THE ROAD TO A SUSTAINABLE ENERGY FUTURE
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>1.3 迈向可持续能源未来的里程碑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Global developments Paris Agreement enters into force On 4 November 2016, the Paris Agreement entered into force after over 55 countries, accounting in total for over 55 percent of the total global greenhouse gas emissions, had deposited their instruments of ratification with the United Nations.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>全球发展 巴黎协定生效2016年11月4日,在超过55个国家向联合国提交批准文件后,巴黎协定生效,这些国家总共占全球温室气体排放总量的55%以上.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Austria was among the first countries to ratify the agreement.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>奥地利是第一个批准该协议的国家之一.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>At the Paris climate protection conference (COP 21) in December 2015, 195 countries had agreed on a universal, legally binding global climate protection agreement for the first time in history.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>在2015年12月的巴黎气候保护会议 (COP21) 上,195个国家首次同意一项具有法律约束力的全球气候保护协议.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It includes a global action plan that aims to limit global warming to well below 2°C. The signatories commit to becoming climate neutral by the second half of the 21st century.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>协议包括一个全球行动计划,旨在将全球变暖限制在2°C以下.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To this end, the countries will meet every five years and update the goals with more strict objectives if scientific findings show it to be necessary.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>为了实现这一目标,各国将每五年举行一次会议,如果科学发现需要,将目标更新到更严格的目标.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The consequences of the exit of the United States from the Paris Agreement as announced by US president Trump on 1 June 2017 will only become clear in the coming years.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>美国总统特朗普于2017年6月1日宣布退出巴黎协定后的后果,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A global mega trend:
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>一个全球性的巨型趋势:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Wind power and photovoltaics becoming more competitive In 2016, the global investments in renewable energy installations were over US$ 280bn (source:
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>2016年,全球对可再生能源设施的投资超过280亿美元 (来源:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Bloomberg New Energy Finance).
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>博社新能源金融).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The lion’s share of these investments was into wind power and PV installations.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>这些投资中,最大的部分是风能和光伏设备.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>While annual investments in the sector have been hovering around the $300bn mark for seven years, the installed capacity resulting from those investments has nearly doubled in that period.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>虽然该行业的年度投资已经在7年内在3亿美元左右,但这些投资产生的装机容量在此期间几乎翻了一番.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This is reflected in the dramatic price drop in wind power and PV installations, which has made them the cheapest way of generating electricity in many parts of the world.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>风能和光伏装置的价格大幅下降,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A spectacular example of this was the tender for the third construction phase of the Mohammed bin Rashid Al Maktoum Solar Park in Dubai, which is to be expanded by 800 MW.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>迪拜的穆罕默德·本·拉希德·麦克图姆太阳能园第三阶段建设项目,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In May 2016, the contract was awarded to a consortium with a bid of US$ 0.0299 (€ 0.026) per kilowatt-hour of solar power.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>2016年5月,该合同被授予一个联盟,每千瓦小时的太阳能发电价为0.0299美元 (0.026欧元).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Price drops have been even more dramatic for battery storage, with prices falling by over ten percent a year.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>电池存储价格下跌更为显著,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The continuation of this trend will not only make electric vehicles commercially viable by 2025 but also mean a breakthrough for stationary energy storage (especially in conjunction with private PV installations).
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>电动汽车的持续发展不仅将使电动汽车在2025年成为商业可行性,还将意味着静止储能技术的突破 (特别是与私人光伏装置相结合).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Diesel emissions scandal heralds change in the automotive industry The diesel emissions scandal, also referred to as “dieselgate”, began in September 2015, when an illegal system was detected that throttled the exhaust cleaning mechanism of diesel engines of a car manufacturer, designed to keep measured emissions levels below US thresholds.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>柴油排放丑闻预示了汽车行业的变化 柴油排放丑闻,也被称为"柴油门",始于2015年9月,当时发现了一个非法系统,杀了一家汽车制造商的柴油发动机排放清洁机制,旨在使测量排放水平低于美国的门.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The ensuing media reports and public discussion led to a massive loss of trust in diesel vehicles in general.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>随后的媒体报道和公众讨论导致人们对柴油车的信任大大下降.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>As a result, several automotive manufacturers have announced plans to focus on electric mobility rather than combustion engines even sooner than initially planned.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>由于这种情况, 许多汽车制造商宣布计划比最初计划更早地专注于电动交通而不是内燃机.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Discussions are also being held at the regulatory level, e.g. regarding diesel bans in various European cities, and the ambitious annually increasing electric car quota that China is implementing in 2019.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>监管层面也在进行讨论,例如关于欧洲各城市的柴油禁令,以及中国在2019年实施的雄心勃勃的每年增加的电动汽车配额.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The impact of this and other political regulations on automotive mobility cannot yet be estimated.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>这项和其他政治规定的对汽车流动性影响尚未得到估计.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Developments at EU level
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>欧盟层面的发展</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The “Winter Package”: “Clean energy for all Europeans” At the start of December 2016, the European Commission presented an over 1000-page draft package of measures, the so-called “Winter Package”.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>冬季方案:所有欧洲人的清洁能源2016年12月初,欧盟委员会提出了一份长达1000页以上的措施方案草案,称为"冬季方案".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It contains several proposals for new Directives, amendments to existing legislation, and working plans, and is aimed at ensuring progress in all five dimensions of the energy union (decarbonisation, energy efficiency, energy market, energy security, and research, innovation and competitiveness).
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>它包含了一些新指令,现行立法修正案和工作计划的建议,旨在确保能源联盟五个方面 (脱碳,能源效率,能源市场,能源安全,研究,创新和竞争力) 的进展.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The plan is to reach an agreement on the Commission’s proposals no later than the second half of 2018, which coincides with the Austrian Presidency.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>计划在2018年下半年,即与奥地利主席国同时,就委员会提案达成协议.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The Commission’s proposals include goals for 2030 and measures for more energy efficiency, renewable energy, buildings, effort sharing, etc.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>欧盟的能源政策包括: 提高能源效率,可再生能源,建筑,努力共享等.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In particular, they include the following:
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>特别是包括以下内容:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>• Energy efficiency: Proposal for a revised Energy Efficiency Directive, proposal for a revised Energy Performance of Buildings Directive, new proposals for energy efficiency of products (Ecodesign Directive); Smart Finance for Smart Buildings initiative • Renewable energy:
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>•能源效率:修订能源效率指令的提案,修订建筑物能源性能指令的提案,新产品能源效率的提案 (生态设计指令);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Proposal for a recast of the EU Renewable Energy Directive including bioenergy • Electricity market design Proposal for a recast of the Internal Electricity Market Directive and the Internal Electricity Market Regulation, proposal for a new Regulation on supply security, proposal for a recast of the ACER Regulation, final report on the Sector Inquiry on Capacity Mechanisms by DG Competition • Governance: proposal for a Regulation on Governance of the Energy Union for climate protection and energy The proposal on the governance mechanism is of particular interest.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>关于欧盟可再生能源指令的新编制提案,包括生物能源 • 电力市场设计 关于电力内部市场指令和电力内部市场条例的新编制提案,关于供应安全的新条例的提案,关于ACER监管机构的新编制提案,关于竞争总局对产能机制的部门调查的最终报告 • 治理:关于气候保护和能源能源联盟治理的新编制提案</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It obliges the member states to draw up a plan with a number of objectives (e.g. for carbon dioxide reduction, more renewables, energy efficiency) and report implementation progress to the Commission at regular intervals.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>欧盟要求成员国制定一项有若干目标的计划 (例如减少二氧化碳,增加可再生能源,提高能源效率),并定期向委员会报告实施进展情况.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>These plans are intended to ensure that the Union-wide target of at least 40% reduction in economy-wide greenhouse gas emissions by 2030 is reached, which the EU committed to as a contribution to the Paris climate agreement.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>这些计划旨在确保到2030年实现整个经济体温室气体排放量至少40%的全欧盟目标,该目标是欧盟承诺作为巴黎气候协议的贡献.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Agreement on reduction of EU emissions trading 2021-2030 The EU Emissions Trading System (EU ETS) is an EU climate policy instrument with the aim to reduce greenhouse gas emissions at the lowest possible cost to the national economies.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>欧盟排放交易体系 (EU ETS) 是欧盟气候政策工具,旨在以尽可能低的成本降低温室气体排放.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Currently, the EU ETS limits the CO2 emissions of some 11,000 power stations, factories and other plants in several sectors of industry.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>目前,欧盟排放交易所限制了11,000个电厂,工厂和其他工厂的二氧化碳排放量.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The system currently covers approx.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>目前该系统覆盖约</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>45% of GHG emissions originating in the EU.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>45%的温室气体排放源自欧盟.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The basis of the system is that the companies included have to buy a tradeable certificate for each tonne of CO2 they emit, and only a limited number of new certificates are issued each year.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>系统的基础是,所包含的公司必须购买可交易的证书,每排放的二氧化碳,每年只发放有限数量的新证书.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This number is being reduced by 1.74% annually until 2020.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>截至2020年,这一数字将每年减少1.74%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In February 2017, the EU Parliament agreed to reduce the number of certificates by 2.2% annually between 2021 and 2030.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>2017年2月,欧盟议会同意在2021年至2030年期间每年减少2.2%的证书数量.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It remains to be seen whether this will raise the price of certificates, which have been at only €5 per tonne for years.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>现在还要看看,这是否会提高几年来每仅为5欧元的证书价格.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The price of certificates will be a factor in whether e.g. highly efficient gas cogeneration plants can compete against coal-fired power plants on the European electricity market.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>证书价格将是高效的天然气热电联发电厂在欧洲电力市场上是否能够与燃煤电厂竞争的因素.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Developments at the national level
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>国家层面的发展</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Key legislation and strategies at a standstill Despite long discussions, the federal government was not able to adopt or even submit the planned “Integrated Energy and Climate Strategy” before the (early) end of the legislative term.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>尽管进行了长时间的讨论,联邦政府在立法期 (早期) 结束之前无法通过甚至提交计划中的"综合能源和气候战略".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It was supposed to define Austria’s quantitative goals until 2030 (ideally until 2050) in the areas of energy efficiency, renewables, and carbon dioxide (cf.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>据估计,该计划将确定奥地利在能源效率,可再生能源和二氧化碳领域的2030年 (理想情况下是2050年) 之前的定量目标 (见</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>EU Winter Package above) and with what tools they would be reached.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>如何实现这些目标.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>There were also no notable improvements in the implementation of the Energy Efficiency Act in the year under review.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>能源效率法在审查年度也没有明显改善.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Due to a large number of generous regulations for individual measures (e.g. recognition of fuel additives or the sending of free flow restrictors to consumers as efficiency measures), the market for energy efficiency certificates remains oversupplied.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>由于大量宽泛的个人措施法规 (例如承认燃料添加剂或将自由流量限制剂发送给消费者作为效率措施),能源效率证书市场仍然供应过剩.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The amendments for stricter calculation methods have not yet had any effect.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>对于更严格的计算方法的修改尚未产生任何效果.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>As a result, the price for energy efficiency certificates is at nearly 0 cent per kWh, providing no incentive for real energy efficiency measures.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>因此,能源效率证的价格接近0美分/千瓦时,不提供真正的能源效率措施的激励.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Green Electricity Amendment In the last session of the legislative period, the green electricity amendment was adopted unanimously by the National Council on 29 June (and the Federal Council on 5 July).
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>绿色电力修正案 在立法期的最后一次会议上,绿色电力修正案于6月29日由国民议会 (和7月5日联邦议会) 一致通过.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The amendment includes changes to the Green Electricity Act, the Electricity Industry and Organisation Act (EIWOG), the Natural Gas Act, and the Energy Control Act, as well as some minor changes to the CHP Points Act.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>这项修正案包括对绿色电力法案,电力工业和组织法案 (EIWOG),天然气法案和能源控制法案的修改,以及对热电站法案的一些小变化.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In the next years, funds will be freed up from the budget to, e.g., reduce waiting times for approved installation for wind power, PV and storage, biogas, and small hydropower.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>在未来几年,将从预算中释放资金,例如减少批准风能,光伏和储能,生物气和小型水电装置的等待时间.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The “Green Electricity Amendment” is expected to trigger investments of over half a billion Euro, increase the share of renewables in electricity generation in Austria by approx. one percentage point, and make it possible for residents of multi-family homes to use electricity generation installations (e.g. PV) communally.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>绿色电力修正案预计将引发超过50亿欧元的投资,将可再生能源在奥地利发电中的份额增加约1个百分点,并使多户住宅的居民能够共同使用发电装置 (例如光伏).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>MUNICIPAL DEPARTMENT 20 – ENERGY PLANNING: SHAPING VIENNA'S ENERGY FUTURE
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>市政部门 20 能源规划:塑造维也纳的能源未来</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Projects implemented in the field of energy between 1 July 2016 and 30 June 2017.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>2016年7月1日至2017年6月30日期间在能源领域实施的项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Strategies New strategies – new challenges – new objectives Energy Framework Strategy for Vienna The government manifesto for the second term of Vienna’s coalition government of Social Democrats and Greens includes the development of an Energy Framework Strategy for Vienna.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>战略 新战略 新挑战 新目标 维也纳能源框架战略 维也纳社会民主党和绿党联合政府第二任期的政府宣言包括制定维也纳能源框架战略.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This Energy Framework Strategy has been developed and will, after final adaptations, likely be presented to the Vienna City Council in late 2017.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>能源框架战略已经制定,在最终调整后,可能在2017年底向维也纳市议会提交.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Development and finalisation of an SEP successor programme (“SEP 2030”) Consistently increasing energy efficiency is an important component of a sustainable energy policy.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>发展和完成SEP后续计划 (SEP 2030) 持续提高能源效率是可持续能源政策的重要组成部分.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Therefore, a successor, nicknamed “SEP 2030”, was developed for the Urban Energy Efficiency Programme SEP, and was mostly completed in 2017.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>城市能源效率计划的后续项目,SEP 2030,主要于2017年完成.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The programme is being developed with the assistance of the Energy Center Wien (ECW).
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>该计划正在与维也纳能源中心 (ECW) 合作开发.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When it will be presented to the City Council depends on the adoption of the Vienna Energy Framework Strategy.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>具体时间取决于维也纳能源框架战略的通过.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Strategic concept on spatial energy planning The strategic concept on spatial energy planning, whose development began in December 2016, is now in the final development phase.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>空间能源规划战略概念 空间能源规划战略概念于2016年12月开始制定,目前处于最后的开发阶段.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The strategic concept is being developed to meet the goals of the Urban Development Plan 2025 (STEP 2025).
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>战略概念正在制定,以实现2025年城市发展计划 (STEP 2025) 的目标.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The objectives set out in STEP 2025 and the Energy Framework Strategy provide the context for spatial energy planning in Vienna.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>根据STEP 2025和能源框架战略的目标,提供了维也纳空间能源规划的背景.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The strategic concept defines the position and goals of the City of Vienna with regard to spatial energy planning and determines the necessary steps for establishing spatial energy planning in Vienna.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>战略概念定义了维也纳市在空间能源规划方面的立场和目标,并确定了维也纳建立空间能源规划所需的步骤.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It describes four main areas of action, which are each divided into several bundles of measures.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>它描述了四个主要行动领域,每个行动领域分为几个措施集.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It will be presented to the City Council in early 2018.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>计划将于2018年初提交市议会.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ideas for a smart city
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>智慧城市的想法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>“European Heat Pump City of the Year” Award At the DecarbHeat conference in Brussels on 11 and 12 May 2017, the City of Vienna was presented the “European Heat Pump City of the Year” award by Celine Fremault, Minister of Housing, Quality of Life, Environment and Energy for the Brussels-Capital Region.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>欧洲年度热城市奖 在2017年5月11日至12日在布鲁塞尔举行的DECARBHEAT会议上,维也纳市获得了布鲁塞尔首都地区住房,生活质量,环境和能源部长Celine Fremault的"欧洲年度热城市奖".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Vienna’s entry, which presented the main initiatives for promoting heat pumps, won over projects from Trondheim (Norway) and Berlin (Germany).
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>维也纳的参赛,提出了热推广的主要举措,赢得了特朗德海姆 (挪威) 和柏林 (德国) 的项目.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The projects included in Vienna’s entry were the development and management of the city’s subsidies for heat pumps as well as the integration of energy maps into the online city map to show potential for near-surface geothermal energy in the city.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>维也纳项目包括开发和管理城市对热的补贴,以及将能源地图集成到在线城市地图中,以显示该市近地地地热能能的潜力.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Data and research
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>数据和研究</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Energy options study in Donaufeld A novel method for assessing energy supply options in new urban development areas was developed for the urban development area Donaufeld.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>对于城市发展区Donaufeld,开发了一种新的评估新城市发展区能源供应选择的方法.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A project advisory committee consisting of representatives of Municipal Departments 20 and 25, housing fund Wohnfonds Wien and energy supplier Wien Energie agreed on the basic approach and input parameters.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>项目咨询委员会由20和25个市政部门,住房基金维也纳和能源供应商维也纳能源的代表组成,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This method will be used for other urban development areas in the future.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>这种方法将在未来用于其他城市发展区.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The final report is available on the homepage of Municipal Department 20. https://www.wien.gv.at/stadtentwicklung/energie/pdf/energieversorgung-donaufeld.pdf Report on “Legal aspects of spatial energy planning” As preparation for the implementation of new energy supply options, the legal aspects of their integration into existing planning tools were studied.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>关于"空间能源规划的法律方面"的报告 作为新能源供应方案的实施准备,研究了将其整合到现有规划工具中的法律方面.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The study focused on identifying existing obstacles and determining the legal scope of action.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>这项研究主要集中在确定现有的障碍和确定法律范围.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It also contains recommendations for the adaptation of existing legal instruments.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>它还提出了适应现有法律文书的建议.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The report is available online at: https://www.wien.gv.at/kontakte/ma20/publikationen/index.html#studien Study of waste heat potential in Vienna Municipal Department 20 supported a study of the AIT Energy Department, which gathered data on the main potential sources of waste heat from commercial enterprises in Vienna and assessed the volume of waste heat.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>该报告在网上可在:https://www.wien.gv.at/kontakte/ma20/publikationen/index.html#studien 维也纳市政部门20废热潜力的研究支持了AIT能源部门的研究,该研究收集了来自维也纳商业企业的主要潜在废热来源的数据,并评估了废热的量.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The companies were selected depending on their sector, number of employees, and size.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>公司根据行业,员工数量和规模进行选择.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Based on this, their potentials for waste heat were calculated and localised on the map.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>根据这些数据,计算了它们的废热潜力,并将其定位在地图上.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The next step will be to make this information publicly available as part of the energy potential maps, aggregated to statistical grids (250x250m).
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>接下来的步骤是将这些信息作为能源潜力地图的一部分公开,并将其汇总到统计格 (250×250m).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Concrete core activation: local supply In 2016, a cooperation project headed by TU Vienna was launched, which develops assessment methods for the use of thermal component activation.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>具体核心激活:本地供应 2016年,维也纳大学领导的合作项目启动,该项目开发了用于热组件激活的评估方法.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The findings of the project, which will be used to develop standards, will hopefully increase our understanding of efficiency and energy supply of buildings.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>预计该项目的结果将用于制定标准,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Due to its thermal characteristics and inertia, concrete core activation is a good way to store and use fluctuating energy volumes generated by renewables.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>由于其热特性和惯性,混凝土核激活是一种良好的方式来存储和使用可再生能源产生的波动能量量.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Concrete core activation can also be used as storage to reduce the load on the electric grid.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>混凝土芯片也可以作为储存物,以减少电网负载.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Energy potential study for rivers Municipal Department 20 commissioned the Geological Survey of Austria (GBA) with studying the thermal potential of rivers and brooks in Vienna and to determine areas suited for thermal use with heat pumps.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>河流的能源潜力研究 市政局20委托奥地利地质调查局 (GBA) 研究维也纳河流和小溪的热潜力,并确定适合使用热的区域.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The streams in the Vienna Woods were found to be unsuited for thermal use, with the possible exception of the Wien and Liesing rivers.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>维也纳森林的溪流被发现不适合热用,可能是维也纳和莱西恩河的例外.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The next step will be to verify these findings with discharge and temperature data.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>接下来的步骤是通过排放和温度数据验证这些发现.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The thermal use of watercourses in Vienna is, therefore, mainly possible along the Danube Canal and the Danube.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>因此,维也纳的热水道主要可以沿着多运河和多河使用.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The results will be available in late 2017.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>结果将于2017年底公布.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Storage systems in Germany If fossil energy vectors are to be replaced by renewables, solar and wind energy are particularly suited where they are available in sufficient amounts.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>储能系统在德国 如果化石能源向量要被可再生能源取代,太阳能和风能在足够数量下是特别适合的.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>As these energy sources are very volatile, it is a major challenge to reconcile the fluctuating supply and the energy demand.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>由于这些能源非常波动,调和能源供应和需求的波动是一个重大挑战.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Methods for providing more flexibility are needed – for example energy storage.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>需要更多的灵活性方法,例如储能.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Municipal Department 20 commissioned a literature review on the status quo (as at end of 2016) of energy storage in Germany.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>城市部门20委托对德国储能现状 (截至2016年底) 的文献审查.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The central question was how recently initiated energy storage activities in Germany have developed.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>核心问题是德国最近开始的储能活动发展如何.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The study focused on sources available online as well as expert newsletters and print products.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>这项研究主要集中在网上可用的来源以及专家新闻通讯和印刷产品.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The perspective of municipalities and municipal energy suppliers was of particular interest.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>城市和城市能源供应商的观点特别有趣.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The results can be found on the homepage of Municipal Department 20 at: https://www.wien.gv.at/stadtentwicklung/energie/pdf/energiespeicherung-deutschland.pdf
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>结果可以在市政部门20的首页上找到:https://www.wien.gv.at/stadtentwicklung/energie/pdf/energiespeicherung-deutschland.pdf</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Awareness building measures
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>提高认识的措施</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Interest in energy and climate protection is growing.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>能源和气候保护的兴趣正在增长.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The demand for more information and practical advice regarding energy is growing.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>能源方面的信息和实用建议需求越来越多.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Municipal Department 20 addresses this demand with a number of specific activities:
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>市政部门20通过一系列具体活动来满足这一需求:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>“Energy!ahead Vienna”: energy showcase project app A newly developed app presents energy showcase projects from Vienna.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>能源!前进的维也纳:能源展示项目应用程序</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The projects are illustrated with attractive pictures and a description of the main energy indicators.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>项目以吸引人的图片和主要能源指标的描述.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The app provides users a fun way to gain interesting information about buildings and projects in Vienna.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>提供了一个有趣的方式, 让用户获取关于维也纳建筑和项目有趣的信息.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Some information is only unlocked when you are at the location of the building.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>只有当你在建筑物位置时才会解锁一些信息.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The map view provides an overview of the location of the showcase projects.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>图表视图提供了展示项目位置的概述.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Energy literacy app As part of the implementation of the energy literacy certificate “energie-führerschein” in the Vienna City Administration, a training app was developed.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>能源素养应用程序 在维也纳市政府实施能源素养证书能导航证的框架内,开发了一个培训应用程序.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It is intended as additional motivation for young people attending the “energie-führerschein” course to think about saving energy in their spare time and to prepare them better for their certification exam. https://www.wien.gv.at/stadtentwicklung/energie/rette-deine-insel.html Geothermal energy handbook The handbook provides information on different ways of using near-surface geothermal energy for forward-looking projects.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>目的是让参加"能源领袖"课程的年轻人在暇时间考虑节能,并更好地为他们的认证考试做好准备. https://www.wien.gv.at/stadtentwicklung/energie/rette-deine-insel.html 地热能手册</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The systems presented in the publication can be used in single-family homes and in large residential and commercial buildings alike.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>书中介绍的系统可以在单户住宅和大型住宅和商业建筑中使用.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It is intended to help users decide on suitable heating and cooling systems that use the soil as a source of heat or cold.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>它旨在帮助用户决定使用土壤作为热或冷源的合适供暖和冷却系统.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The guide is available on the homepage of Municipal Department 20: https://www.wien.gv.at/stadtentwicklung/energie/pdf/leitfaden-erdwaerme.pdf Dialogue forum The forum “Wiener Energie Impulse” is intended as a point of communication that bridges business, industry, politicians and multipliers in the neighbourhood.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>导游可在20号市政部门的首页上找到: https://www.wien.gv.at/stadtentwicklung/energie/pdf/leitfaden-erdwaerme.pdf 对话论坛 维也纳能源冲动论坛旨在作为一个联系点,将商业,工业,政治和邻里乘法者联系起来.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It is an interdisciplinary gathering for a fact-based exchange of experiences and ideas.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>国际知识论坛是一个跨学科的聚会,以实事实为基础交流经验和想法.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The exciting format and communication possibilities promote dialogue between stakeholders in the fields of energy industry, forward-looking housing and working, mobility and logistics, public participation and new media.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>激动人心的格式和沟通可能性促进能源行业,前性住房和工作,流动和物流,公众参与和新媒体领域的利益相关者之间的对话.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The four events in this series were dedicated to different topics, and provided an opportunity for discussion of their opportunities and challenges.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>系列活动的四个活动都专门讨论不同主题,并提供了讨论这些主题的机会和挑战的机会.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Plus magazine Plus magazine presents innovative technologies and achievements in energy supply and use.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>杂志介绍了能源供应和使用领域的创新技术和成果.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It discusses current energy issues in Vienna and other urban areas, presents showcase projects, and prints interviews with pioneers who provide innovative energy solutions.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>讨论了维也纳和其他城市地区的当前能源问题,展示了展示项目,并与提供创新能源解决方案的先驱进行了采访.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The latest issues focused on innovative storage technologies and energy flows in buildings. https://www.wien.gv.at/stadtentwicklung/energie/plus.html
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>最新发行量集中在创新型储能技术和建筑物中的能源流.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>EU projects
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>欧盟项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Smarter Together
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>我们一起更聪明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In February 2016, Vienna, together with Munich and Lyon, launched a large-scale EU project, where the cities will develop new strategies for comprehensive urban renewal.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>2016年2月,维也纳与慕尼黑和里昂一起启动了一项大规模的欧盟项目,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In addition to the refurbishment of buildings, it also includes modern mobility and energy supply solutions, including changes to heating systems.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>除了建筑物翻新,还包括现代移动和能源供应解决方案,包括变更供暖系统.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Smarter Together, which is managed by Municipal Department 25, addresses all of these topics and aims to bring new ideas to Vienna and demonstrate them in Vienna’s 11th district, Simmering.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>智能合作由市政部门25处管理,旨在解决所有这些问题,并将新想法带到维也纳,并在维也纳第11区的Simmering展示.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Three housing estates will we refurbished and a school gymnasium will be replaced with a zero-energy facility.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>我们将改造三座住宅区,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This area will also have the first “mobility points”, i.e. locations that connect different modes of mobility.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>这一区域还将拥有第一个"移动点",即连接不同流动方式的地点.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Municipal Department 20 is in charge of the working package “Integrative infrastructure and services”, which addresses energy supply questions, an IT platform, and the development of a piece of urban furniture that provides electricity.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>市政部门20负责"集成基础设施和服务"工作方案,该工作方案涉及能源供应问题,IT平台和开发供电的城市家具.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The project runs until the start of 2019, and will be followed by a two-year monitoring phase.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>项目将持续到2019年初,之后将进行两年的监测阶段.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Urban Learning In the EU Horizon 2020 project URBAN LEARNING (2015-2017), eight European capitals or major cities faced challenges together, such as reconciling their considerable population growth with ambitious goals for reducing fossil energy and CO2 emissions.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>城市学习 在欧盟"地平线2020"项目"城市学习" (2015-2017年) 中,八个欧洲首都或主要城市共同面临挑战,例如调和其相当的人口增长与减少化石能源和二氧化碳排放的雄心勃勃的目标.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Vienna, Berlin, Paris, Stockholm, Amsterdam / Zaanstad, Warsaw and Zagreb aimed to improve the institutional capacity of local authorities for integrated urban energy planning.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>维也纳,柏林,巴黎,斯德哥尔摩,阿姆斯特丹/扎安斯塔德,华沙和萨格勒布旨在提高地方当局整合城市能源规划的机构能力.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The focus was on urban planning processes and related tools, such as zoning plans, concepts, and contracts.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>专注于城市规划过程和相关工具,如分区计划,概念和合同.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Each partner city developed a proposal for the integration of energy into the planning process for urban development areas and the appropriate framework conditions.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>每个合作城市都制定了将能源纳入城市发展区规划过程的建议,并制定了适当的框架条件.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>They also studied existing tools and technological solutions for neighbourhoods.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>他们还研究了现有的工具和技术解决方案.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To this end, each city installed local working groups consisting of experts from different departments and external stakeholders, such as energy suppliers.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>为了实现这一目标,每个城市都设立了由不同部门和外部利益相关者,如能源供应商的专家组成的地方工作组.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The aggregated results are available at http://www.urbanlearning.eu/learn-and-exchange/deliverables/.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>综合结果可在http://www.urbanlearning.eu/learn-and-exchange/deliverables/上找到.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The cities shared and discussed their findings and questions with others.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>城市与其他人分享并讨论他们的发现和问题.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Vienna fosters an ongoing exchange with the cities of Salzburg and Graz.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>维也纳与萨尔茨堡和格拉茨城市保持着持续的交流.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The working groups will continue to develop and implement the suggestions after the conclusion of the project.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>工作组将在项目结束后继续制定和实施建议.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In Vienna, the project directly supports the development of the strategic concept on spatial energy planning as part of STEP 2025, it allows a more in-depth discussion of certain issues, and shares international experiences from various cities.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>作为STEP 2025的一部分,该项目直接支持开发空间能源规划战略概念,允许对某些问题进行更深入的讨论,并分享来自不同城市的国际经验.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The project is coordinated by the Energy Center Wien, and Municipal Department 20 is Vienna’s contact for the project.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>项目由维也纳能源中心协调,市政部门20是维也纳的项目联系人.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The closing conference will be held in Vienna on 17 October 2017.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>闭幕会议将于2017年10月17日在维也纳举行.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Further information available at: www.urbanlearning.eu
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>更多信息可在:www.urbanlearning.eu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>ENERGY – FROM GENERATION TO USE
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>能源  从一代到一代</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>An overview of the main concepts
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>总体介绍主要概念</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>BIOGENIC FUELS …includes the organic part of domestic waste, wood pellets, wood briquettes, wood chippings, charcoal, waste liquor, landfill gas, sewer gas, biogas, bioethanol, and biodiesel.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>生物燃料包括家用废物,木颗粒,木,木碎片,木炭,废液,垃圾填埋气体,污水管气体,生物气体,生物乙醇和生物柴油的有机部分.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>COMBUSTIBLE WASTE …includes industrial waste and the non-renewable share of domestic waste.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>燃烧废物包括工业废物和家庭废物中不可再生的份额.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>GROSS FINAL ENERGY CONSUMPTION …is the energy available after conversion but before distribution to end users.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>总最终能源消耗...是转换后可用的能量,但在向最终用户分配之前.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It is used to calculate the share of renewables at EU level (cf.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>它们用于计算在欧盟范围内可再生能源的份额 (见</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Directive 2009/28/EC).
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>根据第3条的规定,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>GROSS INLAND ENERGY CONSUMPTION (GIEC) …is the energy available in the city.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>总内陆能源消耗量 (GIEC) 是城市所能获得的能源.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It is the difference between imported and exported energy (net imports) and the energy generated in the city itself.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>它是进口和出口能源 (净进口) 与城市本身产生的能源之间的差异.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>BLI BUNDESLÄNDER LUFTSCHADSTOFFINVENTUR ...is a survey conducted by the Environment Agency Austria to analyse the development of greenhouse gases and selected air pollutants in Austria’s federal provinces.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>德国空气污染物发明...是奥地利环境局进行的一项调查,旨在分析奥地利联邦省份温室气体和特定空气污染物发展情况.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>CO2 EQUIVALENT …makes it possible to compare different greenhouse gases.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>能比较不同的温室气体.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Carbon dioxide is a gas generated in all combustion processes.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>碳二氧化碳是一种在所有燃烧过程中产生的气体.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>There are also other greenhouse gases, such as methane or nitrous oxide.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>其他温室气体也存在,例如甲或氧化物.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>These different types of gases do not all contribute equally to the greenhouse effect.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>这些不同类型的气体并非所有都同样对温室效应产生影响.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For example, methane has 21 times the climate impact of carbon dioxide, so it is referred to as having a CO2 equivalent of 21.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>例如,甲对气候的影响是二氧化碳的21倍,因此它被称作有21的二氧化碳等值.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>ICE DAY …is a day on which the maximum temperature is below 0°C.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>冰天是最高温度低于零摄氏度的天.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>EMIKAT.AT ...is a data management system of the Austrian Institute of Technology (AIT) that provides an emissions inventory based on emitters.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>EMIKAT.AT 是奥地利技术学院 (AIT) 的数据管理系统,提供基于发射者的排放清单.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>FINAL ENERGY …is the energy available to end users, e.g. in the form of electricity, district heating, petrol, diesel, wood pellets or natural gas.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>最终能源...是最终用户可用的能源,例如电力,远程供暖,汽油,柴油,木颗粒或天然气.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>They can use this energy directly or transform it further.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>它们可以直接利用或进一步转化能量.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>ENERGY FLOW CHART …is a chart depicting the energy flows within a given system, such as the City of Vienna, in one year.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>能源流量图表...是一个图表,描绘了一个特定系统内的能源流量,例如维也纳市,在一年内.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>FROST DAY …is a day on which the minimum temperature goes below 0°C.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>寒冷日是最低温度下降至零摄氏度的日.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>HEATING DEGREE DAYS …are based on an indoor temperature of 20°C and a base temperature (exterior temperature at which the building is heated) of 12°C. This is designated as HGT20/12.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>暖气程度日 ...以室内温度为20°C,基础温度 (建筑物加热的室外温度) 为12°C.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This is the sum of the differences between indoor temperature and mean outdoor temperature for all heating degree days over one year and is indicated in Kelvin x days (Kd).
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>这是一个年内所有加热度日内室内温度和室外平均温度之间的差异的总和,并以凯尔文x天 (Kd) 表示.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>HEATING PLANT …is an installation for the centralised generation of heat for water and space heating or for use in industrial processes.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>热电站...是用于供水和空间供暖或用于工业过程的集中热发电装置.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>HOT DAY …is a day on which the maximum temperature is at least 30°C.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>热日是一个最高温度至少为30°C的天.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>HYBRID PROPULSION/HYBRID CAR …is a propulsion system or vehicle that uses a combination of different technologies.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>混合动力推进/混合动力汽车...是一种使用不同技术的推进系统或车辆.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In this report, the term is used for propulsion systems that combine petrol and electricity or diesel and electricity
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>在本报告中,该术语用于将汽油和电力或柴油和电力结合在一起的推进系统</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>KILOWATT PEAK (KWP) …is the peak power of a solar module under strictly defined standardised test conditions.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>千瓦峰值 (KWP) ...是太阳能模块在严格定义的标准化测试条件下达到的峰值功率.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>CLIMATE-CORRECTED DATA …corrects the differences between years caused by varying weather conditions.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>气候调整数据... 调整了由于天气条件变化的原因导致的年间差异.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>As a result, the energy consumption for different years is shown as it would have been had the weather been the same.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>因此,不同年份的能源消耗是以相同天气的情况显示的.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>KLIP …is Vienna’s climate protection programme.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>维也纳的气候保护计划.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>KLIP BALANCE METHOD …is the basis for all calculations in Vienna’s climate protection programme (KliP).
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>基利普平衡方法是维也纳气候保护计划 (KliP) 所有计算的基础.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It is the result of BLI minus emissions trade and minus traffic emissions that cannot be attributed to Vienna.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>这是一个不归功于维也纳的BLI减排贸易和减排交通排放的结果.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The vehicle emissions that cannot be attributed to Vienna are the difference between the emissions caused by traffic in BLI and the Austrian emissions inventory emikat.at.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>无法归因于维也纳的车辆排放量是BLI交通造成的排放量与奥地利排放量清单emikat.at之间的差异.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>COMBINED HEAT AND POWER (CHP) …is the cogeneration of electrical energy and heat, for example in a heating plant.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>热与电力组合 (CHP) 是电能和热的热能联产,例如在一个供热厂.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>USEFUL ENERGY …is the energy that is actually used for heating, lighting, mechanical work, propulsion, etc.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>实际上用于供暖,照明,机械工作,推进等.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>ECOBUSINESSPLAN VIENNA …is the environmental service package of the City of Vienna for enterprises.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>维也纳市的环境服务包.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It includes professional advice and consulting, support with the practical implementation of measures, legal certainty, and effective PR.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>它们包括专业咨询,支持措施的实际实施,法律安全和有效的公关.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>PRIMARY ENERGY …is the energy form or energy source in its initial state.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>主要能量是其初始状态中的能量形式或能源.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This may be a fuel (e.g. coal, wood, natural gas, crude oil) or energy from the sun, wind or ambient heat.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>这可能是燃料 (例如煤炭,木材,天然气,原油) 或来自太阳,风或环境热的能量.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Primary energy can usually only be used after converting it into another form of energy
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>原始能源通常只能在转化为另一种形式的能源后使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>PV AREA …this report uses photovoltaic surface area as a unit of energy measurement to illustrate comparisons.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>太阳能区域...本报告使用光伏表面积作为能源测量单位来说明比较.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>6.5 m2 of PV area correspond to 1,000 kWh.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>电池面积的6.5平方米相当于1000千瓦时.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>SECONDARY ENERGY …is the energy that is generated with the conversion of primary energy.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>二次能源是通过转换原始能源产生的能量.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This may be wood pellets, diesel fuel or electrical energy.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>这可能是木颗粒,柴油或电力.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>SUMMER DAY …is a day on which the maximum temperature is at least 25°C.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>暑假日是最高温度至少25°C的日期.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OTHER TYPE OF PROPULSION … in this report, refers to propulsion systems that use liquid gas or hydrogen (fuel cells) as well as hybrid systems that combine petrol and liquid gas or petrol and natural gas.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>其他类型的推进系统...在本报告中,指使用液体气体或气 (燃料电池) 的推进系统以及混合系统,将汽油和液体气体或汽油和天然气结合在一起.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>TRANSMISSION LOSSES …refers to the energy that is lost in transmission from the source, e.g. the power plant, to the final consumer.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>输电损失...指从发电源 (例如发电厂) 到最终消费者输电时损失的能量.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This includes the energy consumption of the energy sector, transport losses and non-energy use.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>这包括能源部门的能源消耗,运输损失和非能源使用.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>AMBIENT HEAT …refers to heat found in the environment that is used for energy generation, such as near-surface and deep geothermal energy and solar heat.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>环境热量...指环境中存在的热量,用于发电,例如近地表和深地地热和太阳热.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>CONVERSION LOSSES …refers to the energy that is lost during the conversion of primary energy to secondary or useful energy.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>转换损失...指在将原始能量转换为二次或有用能量时损失的能量.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>How has energy consumption changed in Vienna over the last decades?
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>在过去几十年中,维也纳的能源消费情况如何变化?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Are we using more and more energy?
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>我们是否正在消耗更多的能源?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Since the post-war period, the energy consumption of Vienna's population has increased steadily.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>自战后以来,维也纳人口的能源消耗量一直在不断增加.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>While in 1995, energy consumption per capita was at approx.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>虽然1995年人均能源消耗量为约</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>25,000 kWh, it had risen by 15% to 28,500 kWh by 2005.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>到了2005年,其产量增加了15%,达到28500千瓦时.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This marked the peak in Vienna’s energy consumption.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>这标志着维也纳能源消耗达到峰值.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Since 2005, there has been more focus on energy efficiency, resulting in a decrease of energy consumption per capita by 20% to 23,000 kWh.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>自2005年以来,人们更加关注能源效率,导致人均能源消耗减少20%至23000千瓦时.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This reduction is due both to the more efficient use of energy – absolute consumption went down from approx.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>总消耗量从约2%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>47,000 GWh in 2005 to approx.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>总量在2005年为47,000GWh,约为</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>41,000 GWh – and to population growth (+10% between 2005 and 2015).
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>和人口增长 (+10%在2005年至2015年之间).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The uses and conversion of energy are described in detail in the section “Energy flow chart of the City of Vienna”.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>详细描述能源的使用和转换情况在"维也纳市能源流量图"中.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>How clean or renewable is Vienna’s energy supply today?
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>维也纳的能源供应是多么清洁或可再生?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>What big changes have been made in the last years?
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>近年来发生了哪些重大变化?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Since 1995, the share of renewables in gross inland energy consumption increased from 2% to 12% or, in absolute figures, from approx.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>自1995年以来,可再生能源在国内能源总消费中的比重从2%增加到12%,或从约</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>900 GWh to approx.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>约为900GWh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>4,900 GWh.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>电力总量为4900GWh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>There were large changes in the area of hydropower.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>在水电领域发生了重大变化.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In 1998, the Freudenau power plant on the Danube was opened, and between 2001 and 2014, four small hydroelectric plants went on line.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>1998年,多河上弗洛伊德纳瓦发电厂开通,2001年至2014年间,四座小型水电厂投入使用.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The largest growth in the sector of renewables is in the area of biogenic fuels.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>生物燃料是可再生能源领域增长最快的.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This increase is nearly exclusively due to the EU Biofuels Directive, which concerns the blending of biofuels with conventional fuels (diesel, petrol) for motorised traffic.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>这种增长几乎完全是由于欧盟生物燃料指令,该指令涉及混合生物燃料与传统燃料 (柴油,汽油) 用于机动交通.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>New technologies such as wind power, photovoltaics and heat pumps have gained a more firm hold on the market in recent years and have been able to increase their share considerably.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>近年来,风能,光伏和热等新技术在市场上占据了更大的地位,并能够大幅增加其份额.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>How can we best illustrate energy consumption?
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>如何最好地说明能源消耗?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Gross inland energy consumption can be illustrated with PV area units.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>总内陆能源消耗可以用光伏面积单位说明.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>One PV area unit generates 1,000 kWh of energy and has a size of 6.5 m2 .
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>一个光伏面积单元产生1000千瓦时的能量,面积为6.5平方米.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In order to provide all energy used in Vienna, an area of approx.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>为了提供维也纳所有能源,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>269 km2 , or 65% of the city’s total surface, would have to be covered with PV panels.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>城市总面积的269平方公里,即65%,需要用光伏电池板覆盖.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Compared to 2005 – the year with the highest energy consumption in Vienna – the area required has been reduced by 35 km2 , or 12%.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>与2005年相比,维也纳是能源消耗最高的年份,需要的面积减少了35平方公里,即12%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Per capita consumption has been reduced by 37 PV area units in total since 2005.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>自2005年以来,人均消费总量减少了37个光伏面积单位.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For every person living in Vienna, 113 PV area units of energy from fossil sources are imported to the city, the majority of them natural gas (59 PV area units) and oil (48 PV area units).
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>每位维也纳居民都将113个来自化石能源的光伏单位进口到维也纳,其中大部分是天然气 (59个光伏单位) 和石油 (48个光伏单位).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In 2015, the energy mix had 7 more PV area units per capita from renewables than in 2005.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>由于能源组合的增长,能源组合的增长率将增加到5%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Over the next decades, we will need to further reduce the number of fossil PV area units by increasing efficiency or replacing them with renewables.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>未来几十年,我们需要通过提高效率或用可再生能源取代化石光伏区域单元的数量进一步减少.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Note:
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>需要注意的是:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The term "solid energy vector" refers, for the most part, to combustible waste that is converted into district heating in waste incinerators, as well as a small percentage of coal.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>"固体能源载体"一词主要指燃烧废物,这些废物在废物焚烧厂中转化为远程供暖,还包括少量的煤炭.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>District heating here refers to industrial waste heat from the Schwechat oil refinery outside Vienna, which is imported to the city.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>远程热电是指来自维也纳以外的施韦哈特炼油厂的工业废热,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The part of district heating in Vienna that is generated from waste, biomass, ambient heat, or gas, is not visible in gross inland energy consumption, but is included in final energy consumption.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>维也纳的远程供暖部分由废物,生物质,环境热或气体产生,在国内总能源消耗中不显著,但被纳入最终能源消耗.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Energy flow chart of the city of Vienna
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>维也纳市的能源流量图</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>How much energy is needed to run a whole city?
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>需要多少能量来运行一个城市?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Where does that energy come from?
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>这种能量来自哪里?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>14 percent of the energy needed is generated in Vienna itself, mostly from renewable sources.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>维也纳本身的能源总量占能源需求的14%,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>87 percent of energy comes from the surrounding area, with the fossil energy sources natural gas and oil making up the majority of imports.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>石油和天然气占据了大部分进口.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Approx.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>现在我们可以说</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>1.4 percent of energy is exported again; the rest makes up the gross inland energy consumption.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>剩下的占国内能源总消耗.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>What enormous energy flows move through the city and where are they used?
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>城市中流动的巨大能量是什么?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The energy flow chart of the City of Vienna1 shows how much energy is required to supply the city (41,402 GWh), how that energy is transformed and distributed, and where it is finally used.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>维也纳市的能源流量图1显示了供应城市所需的能源 (41.402 GWh),能源的转化和分配以及最终使用地点.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The chart shows a clear dominance of fossil energy sources (39% natural gas and 32% fuels) in the city’s energy mix.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>图表显示,化石能源在城市能源结构中占主导地位 (39%是天然气和32%是燃料).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Over half the natural gas is converted into electricity and district heating.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>超过一半的天然气转化为电力和远程供暖.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Fuels and mineral oils (petrol, diesel, and other petroleum products), on the other hand, are used nearly exclusively by the largest consumption sector, transportation.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>另一方面,燃料和矿物油 (汽油,柴油和其他石油产品) 几乎完全由最大的消费部门运输使用.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The energy flow chart also shows energy losses, which amount to over 20,000 GWh, or 48% of gross inland energy consumption.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>能源流量图还显示了能源损失,超过2万千兆瓦时,占国内能源总消费的48%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>These losses occur during different phases of the energy flow, , with approximately 4,600 GWh lost before arriving at the end user (conversion losses, transport losses, etc.) and approximately 15,200 GWh losses in end-user consumption.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>这些损失发生在能源流的不同阶段,在到达最终用户之前,损失约为4,600 GWh (转换损失,运输损失等),最终用户消耗约为15,200 GWh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>1 This energy flow chart considers both combustible waste and coal solid energy vectors.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>1 本能源流量图考虑燃烧废物和煤炭的固体能量载体.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A more detailed differentiation is provided in the following chapters.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>在下面的章节中提供了更详细的区分.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This is a simplified illustration of the energy flow chart, with the energy flows converted into PV surface area.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>这是一个简化的能源流量图,能量流量转换为光伏表面积.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>1 unit of PV area has a size of 6.5 m2 and generates 1,000 kWh energy.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>一个光伏面积单位的面积为6.5平方米,产生1000千瓦时的能量.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In 2015, each inhabitant of Vienna would have needed 148 PV area units to fuel their lifestyle.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>维也纳每个人需要148个光伏设备来维持生活.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Out of these 148 units, 19 are provided from within Vienna (lower section of the illustration) and 127 have to be imported.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>其中19个来自维也纳 (图的下部),127个是进口.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Only just over half of these PV area units, 77 in total (shown in yellow) are consumed as useful energy, the rest are needed to compensate for losses.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>仅有一半以上的光伏面积单位,共77个 (黄色显示) 被消耗为有用能源,其余的需要补偿损失.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>16.5 PV area units are needed for conversion (e.g. biomass to district heating and electrical energy) and the distribution of energy in the grid (grey).
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>16.5 需要光伏面积单位进行转换 (例如生物质转换为远程供热和电力) 和在电网中分配能源 (灰色).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Losses at end users (black) make up 54.5 PV area units.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>最终用户的损失 (黑色) 占54.5个光伏面积单位.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In order to provide all the energy used in Vienna, two thirds of the city’s surface would have to be covered with PV panels.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>为了提供维也纳所有能源,城市三分之二的面积必须被光伏电池板覆盖.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To compensate for transport losses and conversion losses (e.g. from converting biomass to district heating and electricity) incurred in 2015, 20 km2 of the city, or the 5th, 6th 7th and 19th district (shown in grey), would have to be covered with PV panels.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>为了补偿2015年发生的交通损失和转换损失 (例如从生物质转换为远程供暖和电力),该市的20平方公里,或第5,6,7和19区 (以灰色显示),必须被光伏电池板覆盖.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In order to cover the losses at final consumers, nearly 100 km2 , or the entirety of districts 4, 16, 18, 20, 21 and 23 (black) would have to be completely covered with PV installations.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>为了覆盖最终消费者的损失,将近100平方公里,或全部的4区,16区,18区,20区,21区和23区 (黑色) 必须完全覆盖光伏装置.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Even had there been no energy losses at all in 2015 and had all energy been used directly, we would still have needed 140 km2 of PV panels, which corresponds to the combined size of the 13th and 22nd district (yellow).
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>即使在2015年没有能源损失,而且所有的能源都直接使用,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This chapter presents indicators from the areas of energy, emissions, transportation, population and climate in relation to the population and value added.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>本章介绍了能源,排放,交通,人口和气候领域的指标,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The indicators show the development from 1995 to 2015 for Vienna and provide comparisons with Austria overall and the other federal provinces.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>根据该指标,维也纳在1995年至2015年间的发展情况,与整个奥地利以及其他联邦省份进行了比较.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Data for regional value added are available from 2000.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>区域增值数据可用自2000年.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The adoption of the Smart City Wien Framework Strategy in June 2014 was an enormous step towards sustainable energy supply through the conservation and intelligent use of resources.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>通过2014年6月的"智能城市维也纳框架战略",通过保护和智能利用资源,实现可持续能源供应是一个巨大的步骤.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The strategy defined energy-relevant targets for different areas, such as efficient energy use, renewable energy sources, mobility, and buildings.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>战略确定了不同领域的能源相关目标,如高效能源使用,可再生能源,交通和建筑.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The indicators for monitoring the energy-relevant targets and evaluating the development are shown in section 2.1.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>监测与能源相关目标和评估发展的指标如图 2.1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The Viennese have reduced their per capita energy consumption considerably since 2005 and have begun using more renewable energy and waste heat.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>自2005年以来,维也纳人已经大幅减少了人均能源消耗,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This is reflected in a reduction in greenhouse gas emissions.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>这反映在温室气体排放量减少.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Mobility habits have also become more sustainable in the last year; the number of cars per inhabitant has been dropping since 2010 and the number of annual passes for Vienna Public Transport sold is increasing considerably.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>交通习惯也在过去一年中变得更加可持续; 自2010年以来,人均汽车数量一直在下降,每年销售的维也纳公共交通通行证数量也在大幅增加.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A comparison of Austria’s provinces shows that Vienna has the lowest energy consumption (final energy consumption total, private households, electrical energy) both per capita and in relation to value added.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>比较奥地利各省份,维也纳的能源消耗 (总最终能源消耗,私人家庭,电力) 均为人均和增值最低.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Most federal provinces have been able to reduce their per capita final energy consumption over the last years, in relation to value added for all provinces.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>过去几年,大多数联邦省都能够减少人均最终能源消耗,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The use of electrical energy has grown considerably in all of Austria.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>整个奥地利的电力使用量大幅增长.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Vienna has the highest population growth of all provinces.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>维也纳的人口增长率是所有省份中最高的.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Indicators
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>标志</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>2.1 MONITORING INDICATORS FOR THE SMART CITY WIEN FRAMEWORK STRATEGY
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>智能城市的监测指标</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>2.1.a Emissions per capita
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>2.1.a 人均排放量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Smart City Wien Framework Strategy (SCWR) objective:
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>智能城市维也纳框架战略 (SCWR) 的目标:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Reducing per capita greenhouse gas emissions in Vienna by 80% by 2050 (from 1990 levels).1 Intermediate target:
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>减少到2050年维也纳人均温室气体排放量80% (比1990年水平).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Reducing per capita carbon dioxide emissions in Vienna by at least 35% by 2030 (from 1990 levels).
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>减少到2030年维也纳人均二氧化碳排放量至少35% (比1990年水平低).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The emissions calculated using the KliP balance calculation method are the basis for all calculations for Vienna’s climate protection programmes (KLiP I and KLiP II).
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>根据KliP平衡计算方法计算的排放量是维也纳气候保护计划 (KLiP I和KLiP II) 的所有计算的基础.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The trend line is included to mitigate deviations caused by weather and leap years.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>趋势线是为了减轻天气和年造成的偏差.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>1 This objective as well as all following energy and climate objectives can only be achieved if Vienna’s efforts are supported by suitable framework conditions by the federal government and the European Union, including the recognition of early actions.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>只有在联邦政府和欧盟提供适当的框架条件,包括承认早期行动,才能实现这一目标.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>2.1.b Final energy consumption per capita
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>2.1.b 人均最终能源消耗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Smart City Wien Framework Strategy objective:
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>智能城市维也纳框架战略目标:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Increasing energy efficiency and decreasing final energy consumption per capita in Vienna by 40% by 2050 (from 2005 levels), reducing per capita primary energy input from 3,000 to 2,000 watt.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>提高能源效率,到2050年将维也纳人均最终能源消耗减少40% (比2005年水平低),将人均初级能源投入从3,000瓦减少到2,000瓦.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Note:
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>需要注意的是:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>2.1.c Primary energy consumption per capita
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>2.1.c 人均原始能源消耗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Increasing energy efficiency and decreasing final energy consumption per capita in Vienna by 40% by 2050 (from 2005 levels) reducing per capita primary energy input from 3,000 to 2,000 watt.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>提高能源效率,到2050年将维也纳人均最终能源消耗减少40% (比2005年水平低),将人均初级能源投入从3,000瓦减少到2,000瓦.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Primary energy consumption is calculated based on final energy consumption for Vienna and regional conversion factors (AEA, MA 37, OIB).
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>计算初级能源消耗是基于维也纳的最终能源消耗和区域转换因子 (AEA,MA 37,OIB).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The Swiss method of the 2,000 watt society cannot yet be applied exactly.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>瑞士2000瓦社会方法目前还无法准确应用.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The method is being developed further.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>这种方法正在进一步开发.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>2.1.d Share of renewable energy in gross final energy consumption
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>2.1.d 可再生能源在总最终能源消耗中的比重</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In 2030, over 20%, and in 2050, 50% of Vienna's gross energy consumption will be covered from renewable sources2 .
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>维也纳的总能源消耗将在2030年超过20%,到2050年将占维也纳总能源消耗的50%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The share of renewable energy in Vienna is calculated pursuant to EU Directive 2009/28/EC.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>维也纳的可再生能源份额是根据欧盟2009/28/EC指令计算的.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The imports of renewable electrical energy are calculated based on the energy source mix for electricity generation in Austria excluding Vienna according to the energy balance of Statistics Austria.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>根据奥地利统计局的能源平衡,在奥地利除了维也纳,可再生能源电力进口量是根据电力发电的能源组合计算的.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The share of renewables in electrical energy imported to Austria is calculated based on the ENTSO-E (until 2009: UCTE) electricity generation statistics for Europe published in the electricity market report of energy market regulator E-Control.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>根据欧洲电力发电网 (直到2009年:UCTE) 发布的电力市场监管机构E-Control电力市场报告,可再生能源在奥地利进口电力的比重计算.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>2.1.e Choice of transportation in Vienna
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>2.1.e 在维也纳选择交通工具</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Strengthening CO2 -free modes of transportation (walking and cycling), maintaining the high share of public transport and decreasing motorised individual traffic (MIT) in the city to 20% by 2025, to 15% by 2030, and to markedly less than 15% by 2050.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>加强无二氧化碳的交通方式 (步行和骑自行车),保持公共交通的高比例,并将城市机动个人交通量减少到2025年至2020年为20%,到2030年为15%,到2050年显著降低至15%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>2.1.f Share of motorised private transport in the modal split of the Viennese population
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>2.1.f 维也纳人口的交通方式分区中机动私人交通的比例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>2.1.g Share of electric and hybrid cars
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>2.1.g 电动和混合动力汽车的份额</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>By 2030, the largest possible share of MIT is to be shifted to public transport and nonmotorised types of traffic or should make use of new propulsion technologies (e.g. electric vehicles).
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>到2030年,MIT的最大比例将转移到公共交通和非机动交通类型,或者应使用新的推进技术 (例如电动汽车).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>By 2050, all motorised individual traffic within the municipal boundaries is to operate without conventional propulsion technologies.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>到2050年,所有在市区内运行的机动个人交通都必须不使用传统的推进技术.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Statistical data for hybrid motors available from 2006.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>混合动力发动机的统计数据可用于2006年</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>2.1.h Share of electric and hybrid lorries
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>2.1.h 电动和混合动力卡车的份额</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>By 2030, commercial traffic originating and terminating within the municipal boundaries is to be a largely CO2 -free.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>到2030年,从市区内开始和结束的商业交通将基本上无二氧化碳.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Commercial traffic both originating and terminating in Vienna is currently not being measured.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>目前未测量从维也纳开始和结束的商业交通.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Not all commercial vehicles registered in Vienna are used for trips within Vienna.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>并非所有在维也纳注册的商用车都用于维也纳境内旅行.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The target value cannot be exactly monitored with the currently available data.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>现在可用的数据无法准确监测目标值.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Included vehicles:
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>包括车辆:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Lorries and semi-trailer towing vehicles (category N) as well as motorised transport trolleys.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>卡车和拖车 (N类) 以及机动运输车.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>2.1.i Energy consumption of passenger traffic across city boundaries
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>2.1.i 城市内旅客交通的能源消耗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Reduction of energy consumption by passenger traffic across municipal boundaries by 10% by 2030.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>减少到2030年跨市政界限的乘客交通能源消耗10%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The energy consumption of passenger traffic across city boundaries is not currently being measured.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>现在,城市内旅客交通的能源消耗量还没有被测量.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Fuel consumption is calculated based on the average consumption of cars in Vienna (Statistics Austria) and the simulated driving performance of cars of non-residents in Vienna according to the traffic model (MA 18).
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>根据交通模型 (MA 18) 计算汽车在维也纳的平均消耗量 (奥地利统计局) 和维也纳的非居民汽车的模拟驾驶性能.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>These figures do not match the definition of the SCWR target exactly (traffic of non-residents versus traffic across city limits), but they are a good approximation.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>这些数字不完全符合SCWR目标的定义 (非居民交通与城市边界内的交通),但它们是很好的近似.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>2.1.j Share of energy sources for space heating, hot water and air conditioning
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>2.1.j 空间供热,热水和空调能源的占比</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cost-optimised zero-energy building standards for all new structures, additions and refurbishment from 2018/2020 and further development of future supply systems towards even better climate protection levels.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>根据成本优化,从2018-2020年起所有新建筑,新建和翻新的零能源建筑标准,以及进一步发展未来的供应系统,以提高气候保护水平.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The Vienna district heating system uses renewables, waste heat (e.g. cogeneration) and peak load power plants (e.g. gas).
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>维也纳的远程供热系统使用可再生能源,废热 (例如热力联热) 和高峰负荷电厂 (例如天然气).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>2.1.k Energy supply for subsidised large-scale housing in Vienna
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>2.1.k 维也纳大规模住房的能源供应</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>2.1.l Final energy consumption for space heating, air conditioning and hot water per capita
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>2.1.1 室内供热,空调和热水的最终能源消耗人均</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Comprehensive rehabilitation activities entail the reduction of energy consumption of existing buildings for space heating/cooling/water heating by 1% per capita and year.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>综合性恢复活动意味着,现有建筑物供室热/冷热/供水的能源消耗量每人每年减少1%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The target path „-1% per year from 2010“ is calculated using the equation Target value(Target year)= Final energy consumption average(2008-2012)* 0.99(Target year-2010).
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>目标路径是从2010年开始每年-1%的,计算的方法是:目标值 (目标年) =最终能源消耗平均值 (目标年) 2008-2012年* 0.99 (目标年-2010).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The starting year is 2010 and the starting value is the average of 2008 to 2012.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>起始年份是2010年,起始值是2008年至2012年的平均值.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>2.2 DEVELOPMENTS IN VIENNA
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>维也纳的发展</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>2.2.a Final energy consumption per capita in Vienna
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>2.2.a 维也纳人均最终能源消耗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>2.2.b Share of renewable energy and waste heat according to EU Directive 2009/28/EC
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>根据欧盟2009/28/EC指令,可再生能源和废热的份额</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The EU Directive normalises hydropower and wind power and recognises only certified biogenic fuels as renewable.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>欧盟指令规范水力和风能,仅承认认证的生物燃料可再生能源.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The percentages are calculated as share of gross final energy consumption.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>这些百分比是计算在总最终能源消耗的份额.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>2.2.c Share of renewable energy and waste heat according to the energy balance
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>2.2.c 根据能源平衡,可再生能源和废热的份额</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The energy balance includes the actual annual production of hydropower and wind power as well as all (even non-certified) biogenic fuels.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>能源平衡包括水力发电和风力发电的实际年产量以及所有 (即使未经认证) 生物燃料.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The percentages are calculated as share of gross final energy consumption.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>这些百分比是计算在总最终能源消耗的份额.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>2.2.d Use of solar energy in Vienna’s districts
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>2.2.d 维也纳地区的太阳能使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>2.2.e Electricity generation from renewable energy
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>2.2.e 通过可再生能源发电</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Electricity generation from renewables is growing steadily, total electricity generation fluctuates heavily.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>可再生能源发电量不断增长,总发电量波动很大.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>2.2.f Greenhouse gas (GHG) emissions per capita
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>2.2.f 温室气体 (GHG) 人均排放量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>At the time of writing, the emissions data for 2015 had not yet been published.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>在撰写本文时,2015年的排放数据尚未公布.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>2.2.g Greenhouse gas emissions in relation to value added
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>2.2.g 温室气体排放量与增值相比</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>2.2.h Car density in Vienna’s districts
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>维也纳地区的汽车密度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>2.2.i Annual passes for public transport and cars per 1,000 inhabitants
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>2.2.i 每千居民每年使用公共交通和汽车的通行证</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>On 1 May 2012, the price for the annual pass was lowered to €365
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>2012年5月1日,年度通行证的价格降至365欧元</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>2.2.j Changes in number of cars and inhabitants by district
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>2.2.j 汽车数量和人口数量按地区变化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>2.2.k Heating degree, frost, and ice days
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>2.2.k 热度,和冰天</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>An ice day is a day on which the maximum temperature is below 0°C, and a frost day is a day on which the minimum temperature is below 0° C. The metric for heating degree days is the sum of the differences between indoor temperature and mean outdoor temperature for all heating degree days over one year.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>冰天是最大温度低于0°C的天,天是最低温度低于0°C的天. 暖度日的指标是一年内的所有暖度日室内温度和平均室外温度之间的差异的总和.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>2.2.l Average annual temperature, summer days and hot days
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>2.2.1 年平均温度,夏日和热日</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A hot day is a day on which the maximum temperature is at least 30°C, and a summer day is a day with a maximum temperature of at least 25° C.
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>热日是最高温度至少为30°C的日,夏日是最高温度至少为25°C的日.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>2.3 COMPARISON OF FEDERAL PROVINCES
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>2.3 联邦省份的比较</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>2.3.a Final energy consumption per capita by federal province
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>2.3.a 联邦省人均最终能源消耗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>2.3.b Electrical energy per capita by federal province
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>2.3.b 按联邦省的人均电力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>2.3.c Final energy consumption of private households per capita by federal province
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>2.3.c 按联邦省划分,个人家庭人均最终能源消耗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>2.3.d Final energy consumption in relation to value added by federal province
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>2.3.d 联邦省的最终能源消耗与增值相比</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>2.3.e Car density in provincial capitals
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>2.3.e 省级首都的汽车密度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>2.3.f Population growth by federal province
+</seg>
+      </tuv>
+      <tuv xml:lang="zh">
+        <seg>2.3.f 按联邦省份划分的人口增长</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
